@@ -1,0 +1,65 @@
+
+body{
+	padding: 100px;
+	padding-top: 30px;
+	padding bottom: 30px;
+	background-color: #1c1c1c;
+	
+	
+	
+}
+
+
+h1{
+	padding-left: 75px;
+	color: white;
+	padding-bottom: 15px;
+}
+
+img{
+	width: 180px;
+	border-radius: 27px;
+	padding-left: 20px;
+	padding-top: 20px;
+}
+div{
+	background-color: white;
+	border-radius: 50px;
+	
+	
+}
+th{
+	font-size: 20px;
+}
+
+.table{
+	border-color: white;
+	font-size: 18px;
+}
+h3 {
+	padding-left: 35px;
+	font-size: 20px;
+}
+.opt{
+	padding-left: 300px;
+	font-size: 20px
+}
+
+.baza{
+	padding-top: 30px;
+	
+}
+
+
+
+.p1{
+	padding-left: 50px;
+	font-size: 18px;
+}
+.op {
+	padding-bottom: 30px;
+}
+
+
+
+
